@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Day11_weatherApp</string>
+    <string name="location">Zagreb, Croatia</string>
+    <string name="time">Tonight</string>
+    <string name="weather">Showers</string>
+    <string name="wind_speed">9m/s</string>
+</resources>
